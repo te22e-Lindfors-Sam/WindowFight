@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yO+npSVuy8syiLdL9uIaenAq/6quuVXGwqM9U9G9cOYogoW346Krl/nHEdeUxUDyiyZpW3HeHJB2/A3GvG/14g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sam.lindfors\\Desktop\\Programering\\WindowFight\\WindowFIght\\WindowFIght.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sam.lindfors\\.nuget\\packages\\raylib-cs\\4.5.0.4\\raylib-cs.4.5.0.4.nupkg.sha512",
+    "C:\\Users\\sam.lindfors\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
